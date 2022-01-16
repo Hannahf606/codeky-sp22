@@ -1,0 +1,16 @@
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.exe
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.deps.json
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.runtimeconfig.json
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.runtimeconfig.dev.json
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.dll
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\bin\Debug\net5.0\ref\BethanysPieShopHRM.dll
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.pdb
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.csproj.AssemblyReference.cache
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.AssemblyInfo.cs
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.dll
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\obj\Debug\net5.0\ref\BethanysPieShopHRM.dll
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.pdb
+C:\pluralsight\Projects\codeky-sp22\04\demos\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.genruntimeconfig.cache
