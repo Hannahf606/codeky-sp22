@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1b0189c-2e31-4d7f-9e40-29ee11bce87e": {
+      "ProjectGuid": "c1b0189c-2e31-4d7f-9e40-29ee11bce87e",
+      "DisplayName": "BethanysPieShopHRM",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
